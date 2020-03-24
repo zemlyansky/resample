@@ -1,0 +1,16 @@
+{
+  "name": "resample",
+  "version": "0.0.1",
+  "description": "Resample functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "resample",
+    "statistics",
+    "estimation"
+  ],
+  "author": "Anton Zemlyansky",
+  "license": "MIT"
+}
