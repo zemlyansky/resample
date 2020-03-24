@@ -35,7 +35,7 @@ bootstrap([1, 2, 3, 4, 5, 6, 40], mean, 10000)
 
 Passing only number of samples without the estimator function return raw samples with replacement
 
-```
-bootstrap([1,2,3,4,5,6,40], 2))
+```javscript
+bootstrap([1, 2, 3, 4, 5, 6, 40], 2))
 // [[ 2, 40, 1, 1, 5, 2, 6], [2, 3, 4, 4, 2, 40, 6]]
 ```
