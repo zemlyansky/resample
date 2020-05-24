@@ -1,5 +1,7 @@
 # resample
 Resampling methods for variance and bias estimation. Currently implemented such techniques:
+* Resample
+* Shuffle
 * Bootstrap
 * Jackknife
 

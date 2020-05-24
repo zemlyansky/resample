@@ -1,6 +1,6 @@
 {
   "name": "resample",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Resample functions",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,10 @@
   "keywords": [
     "resample",
     "statistics",
-    "estimation"
+    "estimation",
+    "boostrap",
+    "jackknife",
+    "shuffle"
   ],
   "author": "Anton Zemlyansky",
   "license": "MIT"
